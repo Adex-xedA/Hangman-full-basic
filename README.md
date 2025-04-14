@@ -1,9 +1,9 @@
 It's a Hangman game!
 Features: 
-  Categories
-  A scoring system
-  Leaderboards
-  A secret extra chance to keep half of your score 
+  -Categories
+  -A scoring system
+  -Leaderboards
+  -A secret extra chance to keep half of your score 
 
 How to install:
  Download the content and put everything in a folder.
